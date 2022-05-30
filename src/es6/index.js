@@ -156,3 +156,6 @@ const geneatorHello = helloWorld();
 console.log(geneatorHello.next().value);
 console.log(geneatorHello.next().value);
 console.log(geneatorHello.next().value);
+
+// es7
+
