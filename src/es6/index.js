@@ -103,7 +103,7 @@ const square = num => num * num;
 
 const helloPromise = () => {
     return new Promise((resolve, reject) => {
-        if (false){
+        if (true){
             resolve('Hey!')
         }else {
             reject('Ups!!');
